@@ -1,15 +1,11 @@
 ---
 layout:     post
-title:      "Yet Another Jekyll Blog"
-subtitle:   "The Birth of yet another jekyll blog, which would probably be soon lost in oblivion."
-date:       2016-03-27 17:00:00
-author:     "Shikher Verma"
+title:      "Expectation Maximization"
+date:       2016-08-02 17:00:00
+author:     "Khaled"
 header-img: "img/posts/jekyll-bg.jpg"
 comments: true
-tags: CodeMonkey
 ---
-
-
 
 ## Test Katex
   
